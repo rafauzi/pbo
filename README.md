@@ -1,5 +1,9 @@
 # Project PBO
 
+Nama	: Roby Agesta Fauzi
+
+NPM	: 2015804336
+
 Project ini digunakan untuk praktek mata kuliah PBO.
 
 ## Instalasi
